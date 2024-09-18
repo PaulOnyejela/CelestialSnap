@@ -25,19 +25,21 @@ CelestialSnap is a weather web application that provides real-time weather infor
 - Internet connection for fetching weather data
 
 ### Installation
+Here's the presentation on [Google Slide](https://docs.google.com/presentation/d/1lorsx5tCl-MjW87qAd3xQ3Miaq1-6D-yVTmiR6sA0EQ/edit?usp=sharing)
+Check out the web app [Here]()
 
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/celestialsnap.git
-   cd celestialsnap
+   git clone https://github.com/PaulOnyejela/CelestialSnap.git
+   cd CelestialSnap
 2. **Open** index.html in your preferred web browser.
 
 3. **Add your OpenWeatherMap API key**:
 
 	Replace the API_KEY variable in app.js with your own API key obtained from OpenWeatherMap.
 
-##Usage
+## Usage
 1. Open the application in a web browser.
 2. Enter a city name in the search bar and press enter.
 3. View the current weather, including temperature, humidity, wind speed, and more.
