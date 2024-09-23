@@ -26,7 +26,7 @@ CelestialSnap is a weather web application that provides real-time weather infor
 
 ### Installation
 Here's the presentation on [Google Slide](https://docs.google.com/presentation/d/1lorsx5tCl-MjW87qAd3xQ3Miaq1-6D-yVTmiR6sA0EQ/edit?usp=sharing)
-Check out the web app [Here]()
+Check out the web app [Here](https://paulonyejela.github.io/CelestialSnap/)
 
 1. **Clone the repository**:
 
